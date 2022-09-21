@@ -1,0 +1,13 @@
+.comments {
+  text-align: center;
+}
+
+.comments > button {
+  font-size: 1.25rem;
+}
+button{
+  padding: 10px;
+  color: white;
+  background-color: #008080;
+  border-radius: 5px;
+}
